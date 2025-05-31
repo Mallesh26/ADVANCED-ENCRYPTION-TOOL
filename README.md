@@ -41,3 +41,4 @@ This tool provides a reliable way to protect files with strong encryption and ve
 
 ##OUTPUT##
  
+![Image](https://github.com/user-attachments/assets/f5ad7ddb-6c0a-455a-928f-5dc4ac5119cc)
